@@ -1,1 +1,1 @@
-https://sohan708.github.io/cv-project/
+https://sohan708.github.io/protfolio/
