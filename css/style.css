@@ -57,7 +57,7 @@ a:focus {
     text-decoration: none;
 }
 
-.smilea {
+.text__color {
     color: white;
     font-size: 25px;
 }
@@ -253,21 +253,21 @@ img {
 }
 
 @media (max-width: 1023px) {
-    .smile-logo {
+    .sohan-logo {
         padding-top: 20px;
         font-weight: bold;
     }
 }
 
 @media (min-width: 1024px) {
-    .smile-logo {
+    .sohan-logo {
         padding-top: 0px;
         font-weight: bold;
     }
 }
 
 @media (min-width: 1280px) {
-    .smile-logo {
+    .sohan-logo {
         padding-top: 0px;
         font-weight: bold;
     }
@@ -1095,7 +1095,7 @@ ul.portfolio-image li .desc {
 }
 
 .bg-about {
-    background: url(../images/smile.jpeg);
+    background: url(../images/sohan.jpeg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1165,7 +1165,7 @@ ul.portfolio-image li .desc {
         width: 100%;
     }
     .bg-about {
-        background: url(../images/smile.jpeg);
+        background: url(../images/sohan.jpeg);
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -1188,7 +1188,7 @@ ul.portfolio-image li .desc {
         width: 100%;
     }
     .bg-about {
-        background: url(../images/smile.jpeg);
+        background: url(../images/sohan.jpeg);
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
@@ -1492,6 +1492,7 @@ ul.portfolio-image li .desc {
     background: #20406c;
     padding: 80px 0;
     color: #636363;
+    text-align: center;
 }
 
 /*----------------------------------------- 8) Component --------------------------------------------------*/
